@@ -1,0 +1,5 @@
+# Local and operating-system files
+.DS_Store
+.env*
+*.log
+*.tmp

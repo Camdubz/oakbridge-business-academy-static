@@ -1,0 +1,24 @@
+{
+  "name": "Oakbridge Business Academy",
+  "short_name": "Oakbridge",
+  "description": "Practical enterprise education, mentoring and sustained support for high-potential people facing high barriers.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fffdf9",
+  "theme_color": "#143c35",
+  "icons": [
+    {
+      "src": "/assets/oakbridge-icon.png",
+      "sizes": "400x400",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
